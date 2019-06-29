@@ -19,7 +19,7 @@
         android:layout_height="match_parent"
         app:headerLayout="@layout/header"
         app:itemIconTint="#8C000000"
-        app:itemTextColor="E6000000"
+        app:itemTextColor="#E6000000"
         app:menu="@menu/menu_items"
         >
 
