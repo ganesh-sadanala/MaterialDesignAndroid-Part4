@@ -27,7 +27,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void setUpNavigationDrawerMenu() {
-        //creates hamburger icon
         drawerToggle=new ActionBarDrawerToggle(this,drawerLayout,mainToolbar
         ,R.string.drawer_open,R.string.drawer_close);
         //Now we need to link our nv to dt
